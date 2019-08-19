@@ -34,7 +34,7 @@
   ],
   "license": "MIT",
   "dependencies": {
-    "passport-oauth2": "1.x.x",
+    "passport-oauth2": "https://github.com/Huaoe/passport-oauth2.git",
     "underscore": "^1.7.0"
   },
   "bugs": {
